@@ -34,7 +34,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github.com/user-attachments/assets/f1fbbb32-6fe0-4e42-9480-c18c303d1c1b" width="500"/>
+      <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/824a90f7-62ce-4122-95d3-de04dd5ba270" width="500"/>
     </td>
     <td>
       <b>OS -></b> Windows, Linux <br>
