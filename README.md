@@ -26,16 +26,11 @@
 <td>
 
 • <a href="https://github.com/h4dotai/h4chat">h4chat</a> - Terminal-style realtime private chat app built with Go, WebSockets, and encrypted communication for anonymous conversations.
-
 • <a href="https://github.com/harshbarnawa/Portfolio">Portfolio</a> - My personal portfolio website showcasing projects, skills, coding journey, and creative frontend designs.
-
 • <a href="https://github.com/harshbarnawa/editoStudios">editoStudios</a> - Creative agency website with modern UI, smooth animations, responsive layouts, and clean frontend experience.
-
 • <a href="https://github.com/harshbarnawa/CodeForces">CodeForces</a> - Random C++ chaos, competitive programming grind, and problem solving practice from Codeforces contests.
-
 • <a href="https://github.com/harshbarnawa/chessbee">chessbee</a> - Modern chess game built with React and chess.js featuring real gameplay mechanics and interactive UI.
-
-• <a href="https://github.com/harshbarnawa/arise4">arise4</a> - Clean modern frontend project focused on UI design, layouts, animations, and creative web experiences.
+• <a href="https://github.com/harshbarnawa/arise4">Arise4</a> - Clean modern frontend project focused on UI design, layouts, animations, and creative web experiences.
 
 </td>
 </tr>
