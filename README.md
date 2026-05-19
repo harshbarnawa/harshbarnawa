@@ -20,27 +20,22 @@
 <br>
 
 ## Projects
+- [h4chat](https://github.com/h4dotai/h4chat)  
+  Terminal-style realtime private chat app.
+ 
+- [Portfolio](https://github.com/harshbarnawa/Portfolio)  
+  My personal portfolio website.
 
-<table>
-<tr>
-<td valign="top" width="50%">
+- [editoStudios](https://github.com/harshbarnawa/editoStudios)  
+  Creative agency website with modern UI.
 
-### Development
+- [CodeForces](https://github.com/harshbarnawa/CodeForces)  
+  Random C++ chaos and problem solving.
 
-- [Portfolio](https://github.com/YOUR_USERNAME/Portfolio) - Personal portfolio website showcasing my work and journey
-- [editoStudios](https://github.com/YOUR_USERNAME/editoStudios) - Creative agency portfolio website with React, Vite, animations, and Cloudflare deployment
-- [chessbee](https://github.com/YOUR_USERNAME/chessbee) - Modern chess application built using React and chess.js with real gameplay mechanics
+- [chessbee](https://github.com/harshbarnawa/chessbee)  
+  Modern chess game built with React.
 
-</td>
+  - [arise4](https://github.com/harshbarnawa/arise4)  
+  Clean modern frontend project with cool UI.
 
-<td valign="top" width="50%">
 
-### Coding / Backend
-
-- [CodeForces](https://github.com/YOUR_USERNAME/CodeForces) - Competitive programming journey and C++ problem solving
-- [h4chat](https://github.com/h4dotai/h4chat) - Terminal-style encrypted realtime chat application using Go and WebSockets
-- [Pattern-problems](https://github.com/YOUR_USERNAME/Pattern-problems) - Pattern problem practice repository for consistency and learning
-
-</td>
-</tr>
-</table>
