@@ -25,17 +25,12 @@
 <tr>
 <td>
 
-• <a href="https://github.com/h4dotai/h4chat">h4chat</a> - Realtime private chat app with Go and WebSockets.
-
-• <a href="https://github.com/harshbarnawa/Portfolio">Portfolio</a> - My portfolio website using React.
-
-• <a href="https://github.com/harshbarnawa/editoStudios">editoStudios</a> - Creative agency website with modern UI and animations.
-
-• <a href="https://github.com/harshbarnawa/CodeForces">CodeForces</a> - Competitive coding, C++ problem solving, and contest practice.
-
-• <a href="https://github.com/harshbarnawa/chessbee">chessbee</a> - Chess game built with React and chess.js //Both local & Multiplayer.
-
-• <a href="https://github.com/harshbarnawa/arise4">arise4</a> - Simple task manager and todo app in solo leveling theme.
+• <a href="https://github.com/h4dotai/h4chat">h4chat</a> - Realtime private chat app with Go and WebSockets. 
+• <a href="https://github.com/harshbarnawa/Portfolio">Portfolio</a> - My portfolio website using React. 
+• <a href="https://github.com/harshbarnawa/editoStudios">editoStudios</a> - Creative agency website with modern UI and animations. 
+• <a href="https://github.com/harshbarnawa/CodeForces">CodeForces</a> - Competitive coding, C++ problem solving, and contest practice. 
+• <a href="https://github.com/harshbarnawa/chessbee">chessbee</a> - Chess game built with React and chess.js //Both local & Multiplayer. 
+• <a href="https://github.com/harshbarnawa/arise4">arise4</a> - Simple task manager and todo app in solo leveling theme. 
 
 </td>
 </tr>
