@@ -22,20 +22,13 @@
 ## Projects
 - [h4chat](https://github.com/h4dotai/h4chat)  
   Terminal-style realtime private chat app.
- 
 - [Portfolio](https://github.com/harshbarnawa/Portfolio)  
   My personal portfolio website.
-
 - [editoStudios](https://github.com/harshbarnawa/editoStudios)  
   Creative agency website with modern UI.
-
 - [CodeForces](https://github.com/harshbarnawa/CodeForces)  
   Random C++ chaos and problem solving.
-
 - [chessbee](https://github.com/harshbarnawa/chessbee)  
   Modern chess game built with React.
-
-  - [arise4](https://github.com/harshbarnawa/arise4)  
+- [arise4](https://github.com/harshbarnawa/arise4)  
   Clean modern frontend project with cool UI.
-
-
