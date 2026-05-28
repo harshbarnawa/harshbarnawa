@@ -31,6 +31,8 @@
 • <a href="https://github.com/harshbarnawa/CodeForces">CodeForces</a> - Competitive coding, C++ problem solving, and contest practice.                              
 • <a href="https://github.com/harshbarnawa/chessbee">chessbee</a> - Chess game built with React and chess.js //Both local & Multiplayer.                            
 • <a href="https://github.com/harshbarnawa/arise4">arise4</a> - Simple task manager and todo app in solo leveling theme.                                            
+• <a href="https://github.com/harshbarnawa/Go-learn">Go_Learning</a> - Learning how backend system creates from the scratch.                            
+• <a href="https://github.com/harshbarnawa/leetCode">Leetcode</a> - Started some extra practice with leetcode as well.
 
 </td>
 </tr>
