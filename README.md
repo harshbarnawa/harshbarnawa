@@ -14,6 +14,24 @@
       <b>Framework -></b> React, Nextjs <br>
       <b>Goal -></b> 1000 authentic commits <br>
       <b>Hobbies -></b> Gaming, Teaching
+<br>
+<table style="margin-top: 8px; border-collapse: collapse;">
+<tr>
+  <td style="padding: 0; font-weight: bold; white-space: nowrap;">
+    Coding →
+  </td>
+<td style="padding-left: 8px; white-space: nowrap; display: flex; gap: 8px; align-items: center;">
+    <a href="https://leetcode.com/u/Devraj_jha/">
+      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
+    </a>
+    &nbsp;
+    <a href="https://codeforces.com/profile/DJJHA">
+      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white">
+    </a>
+  </td>
+</tr>
+</table>
+      
     </td>
   </tr>
 </table>
