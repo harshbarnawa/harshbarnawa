@@ -37,24 +37,6 @@
 
 ## Projects
 
-<table>
-<tr>
-<td>
-
-• <a href="https://github.com/h4dotai/h4chat">h4chat</a> - Realtime private chat app with Go and WebSockets.                                                        
-• <a href="https://github.com/harshbarnawa/Portfolio">Portfolio</a> - My portfolio website using React.                                                             
-• <a href="https://github.com/harshbarnawa/editoStudios">editoStudios</a> - Creative agency website with modern UI and animations.                                  
-• <a href="https://github.com/harshbarnawa/CodeForces">CodeForces</a> - Competitive coding, C++ problem solving, and contest practice.                              
-• <a href="https://github.com/harshbarnawa/chessbee">chessbee</a> - Chess game built with React and chess.js //Both local & Multiplayer.                            
-• <a href="https://github.com/harshbarnawa/arise4">arise4</a> - Simple task manager and todo app in solo leveling theme.                                            
-• <a href="https://github.com/harshbarnawa/Go-learn">Go_Learning</a> - Learning how backend system creates from the scratch.                            
-• <a href="https://github.com/harshbarnawa/leetCode">Leetcode</a> - Started some extra practice with leetcode as well.
-
-</td>
-</tr>
-</table>
-<p align="center">
-  
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhldTBzbG9nY2R3YWc1NXR4M3owbGh3dHVmODQ0YXR3cXBuOTJwbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="250">
-</p>
+| Full Stack / Web | Other (Go, C++, DSA, etc.) |
+| ---------------- | -------------------------- |
+| • <a href="https://github.com/h4dotai/h4chat">h4chat</a> - Realtime private chat app with Go and WebSockets.<br>• <a href="https://github.com/harshbarnawa/Portfolio">Portfolio</a> - Personal portfolio website built with React.<br>• <a href="https://github.com/harshbarnawa/editoStudios">editoStudios</a> - Creative agency website with modern UI and animations.<br>• <a href="https://github.com/harshbarnawa/chessbee">chessbee</a> - Chess game built with React and chess.js (Local & Multiplayer).<br>• <a href="https://github.com/harshbarnawa/arise4">arise4</a> - Todo app inspired by Solo Leveling. | • <a href="https://github.com/harshbarnawa/Go-learn">Go-Learn</a> - Learning backend systems and Go development from scratch.<br>• <a href="https://github.com/harshbarnawa/CodeForces">CodeForces</a> - Competitive programming and C++ problem solving.<br>• <a href="https://github.com/harshbarnawa/leetCode">LeetCode</a> - DSA practice and interview preparation. |
