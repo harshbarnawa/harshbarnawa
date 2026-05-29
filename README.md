@@ -22,11 +22,11 @@
   </td>
 <td style="padding-left: 8px; white-space: nowrap; display: flex; gap: 8px; align-items: center;">
     <a href="https://leetcode.com/u/harshbarnawa/">
-      <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode"/>
+     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
     </a>
     &nbsp;
     <a href="https://codeforces.com/profile/harshbarnawa.info">
-       <img src="https://cdn.simpleicons.org/codeforces" height="40" alt="Codeforces"/>
+       <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white">
     </a>
   </td>
 </tr>
@@ -37,6 +37,6 @@
 
 ## Projects
 
-| Full Stack / Web | Other (Go, C++, DSA, etc.) |
-| ---------------- | -------------------------- |
-| • <a href="https://github.com/h4dotai/h4chat">h4chat</a> - Realtime private chat app with Go and WebSockets.<br>• <a href="https://github.com/harshbarnawa/Portfolio">Portfolio</a> - Personal portfolio website built with React.<br>• <a href="https://github.com/harshbarnawa/editoStudios">editoStudios</a> - Creative agency website with modern UI and animations.<br>• <a href="https://github.com/harshbarnawa/chessbee">chessbee</a> - Chess game built with React and chess.js (Local & Multiplayer).<br>• <a href="https://github.com/harshbarnawa/arise4">arise4</a> - Todo app inspired by Solo Leveling. | • <a href="https://github.com/harshbarnawa/Go-learn">Go-Learn</a> - Learning backend systems and Go development from scratch.<br>• <a href="https://github.com/harshbarnawa/CodeForces">CodeForces</a> - Competitive programming and C++ problem solving.<br>• <a href="https://github.com/harshbarnawa/leetCode">LeetCode</a> - DSA practice and interview preparation. |
+| Web / Full Stack | Programming / Backend |
+| ---------------- | --------------------- |
+| • <a href="https://github.com/h4dotai/h4chat">h4chat</a> - Realtime private chat app with Go and WebSockets.<br>• <a href="https://github.com/harshbarnawa/Portfolio">Portfolio</a> - My portfolio website built with React.<br>• <a href="https://github.com/harshbarnawa/editoStudios">editoStudios</a> - Creative agency website with modern UI and animations.<br>• <a href="https://github.com/harshbarnawa/chessbee">chessbee</a> - Chess game built with React and chess.js (Local & Multiplayer).<br>• <a href="https://github.com/harshbarnawa/arise4">arise4</a> - Task manager and todo app inspired by Solo Leveling. | • <a href="https://github.com/harshbarnawa/Go-learn">Go-Learn</a> - Learning backend development and Go from scratch.<br>• <a href="https://github.com/harshbarnawa/CodeForces">CodeForces</a> - Competitive programming, C++ problem solving, and contest practice.<br>• <a href="https://github.com/harshbarnawa/leetCode">LeetCode</a> - Data Structures & Algorithms and interview preparation problems. |
