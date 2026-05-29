@@ -18,15 +18,15 @@
 <table style="margin-top: 8px; border-collapse: collapse;">
 <tr>
   <td style="padding: 0; font-weight: bold; white-space: nowrap;">
-    Coding →
+    Coding =>
   </td>
 <td style="padding-left: 8px; white-space: nowrap; display: flex; gap: 8px; align-items: center;">
-    <a href="https://leetcode.com/u/Devraj_jha/">
-      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
+    <a href="https://leetcode.com/u/harshbarnawa/">
+      <img src="https://cdn.simpleicons.org/leetcode" height="40" alt="LeetCode"/>
     </a>
     &nbsp;
-    <a href="https://codeforces.com/profile/DJJHA">
-      <img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=flat-square&logo=codeforces&logoColor=white">
+    <a href="https://codeforces.com/profile/harshbarnawa.info">
+       <img src="https://cdn.simpleicons.org/codeforces" height="40" alt="Codeforces"/>
     </a>
   </td>
 </tr>
