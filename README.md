@@ -21,7 +21,7 @@
     Coding =>
   </td>
 <td style="padding-left: 8px; white-space: nowrap; display: flex; gap: 8px; align-items: center;">
-    <a href="https://leetcode.com/u/harshbarnawa/">
+    <a href="https://leetcode.com/u/harshtemp/">
      <img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black">
     </a>
     &nbsp;
