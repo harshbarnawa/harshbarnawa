@@ -1,11 +1,19 @@
-<h4 align="center">Harsh Barnawa</h4>
+<pre>
+Hi. I am,
 
+██╗░░██╗░█████╗░██████╗░░██████╗██╗░░██╗░░░░░░██████╗░░█████╗░██████╗░███╗░░██╗░█████╗░██╗░░░░░░░░██╗░█████╗░
+██║░░██║██╔══██╗██╔══██╗██╔════╝██║░░██║░░░░░░██╔══██╗██╔══██╗██╔══██╗████╗░██║██╔══██╗██║░░░░░░░░██║██╔══██╗
+███████║███████║██████╔╝╚█████╗░███████║░░░░░░██████╦╝███████║██████╔╝██╔██╗██║███████║██║░░██║░░░██║███████║
+██╔══██║██╔══██║██╔══██╗░╚═══██╗██╔══██║░░░░░░██╔══██╗██╔══██║██╔══██╗██║╚████║██╔══██║██║░░╚██╗░██╔╝██╔══██║
+██║░░██║██║░░██║██║░░██║██████╔╝██║░░██║░░░░░░██████╦╝██║░░██║██║░░██║██║░╚███║██║░░██║╚████╗╚████╔╝░██║░░██║
+╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚═╝╚═════╝░╚═╝░░╚═╝░░░░░░╚═════╝░╚═╝░░╚═╝╚═╝░░╚═╝╚═╝░░╚══╝╚═╝░░╚═╝░╚═══╝░╚═══╝░░╚═╝░░╚═╝
 
+</pre>
 
 <table>
   <tr>
     <td>
-      <img width="480" height="270" alt="giphy" src="https://github.com/user-attachments/assets/824a90f7-62ce-4122-95d3-de04dd5ba270" width="500"/>
+     <img width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s4Zml3djAzeHE4YjI3NTJyYmN6MG1ybjh2b2R6eDloMHhmY3NzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZEtFE02ofY00gJ71/giphy.gif"/>
     </td>
     <td>
       <b>OS -></b> Windows, Linux <br>
@@ -35,8 +43,18 @@
    </tr>
 </table>
 
-## Projects 
+## Projects
 
-| WEB-DEV / BACKEND / CP | ... |
-| -------- | -------- |
-| • <a href="https://github.com/harshbarnawa/pixeldraw3d">PixelDraw3D</a> - AI-powered 3D model generator that converts text and images into downloadable 3D assets with authentication, subscriptions, and modern web UI.<br>• <a href="https://github.com/harshbarnawa/OpenGuidos">OpenGuidos</a> - VS Code extension for easy code snippets, custom commands, and faster development workflow.<br>• <a href="https://github.com/h4dotai/h4chat">h4chat</a> - Realtime private chat app with Go and WebSockets.<br>• <a href="https://github.com/harshbarnawa/Portfolio">Portfolio</a> - My portfolio website built with React.<br>• <a href="https://github.com/harshbarnawa/editoStudios">editoStudios</a> - Creative agency website with modern UI and animations.<br>• <a href="https://github.com/harshbarnawa/chessbee">chessbee</a> - Chess game built with React and chess.js (Local & Multiplayer).<br>• <a href="https://github.com/harshbarnawa/arise4">arise4</a> - Task manager and todo app inspired by Solo Leveling.<br>• <a href="https://github.com/harshbarnawa/Go-learn">Go-Learn</a> - Learning backend development and Go from scratch.<br>• <a href="https://github.com/harshbarnawa/CodeForces">CodeForces</a> - Competitive programming, C++ problem solving, and contest practice.<br>• <a href="https://github.com/harshbarnawa/leetCode">LeetCode</a> - Data Structures & Algorithms and interview preparation problems.<br>• <a href="https://github.com/harshbarnawa/javaWorkshop">Java Practice</a> - Documenting my Java learning journey through assignments, hands-on practice, and fundamental programming concepts. | <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGhldTBzbG9nY2R3YWc1NXR4M3owbGh3dHVmODQ0YXR3cXBuOTJwbCZlcD12MV9naWZzX3NlYXJjaCZjdT1n/xT9IgzoKnwFNmISR8I/giphy.gif" width="350"/> |
+| **AI SaaS** | **Frontend** |
+| :--- | :--- |
+| **[PixelDraw3D](https://github.com/harshbarnawa/pixeldraw3d)** — AI-powered 3D model generator that converts text and images into downloadable 3D assets with authentication and subscriptions. | **[Portfolio](https://github.com/harshbarnawa/Portfolio)** — Personal portfolio built with React. |
+| **[h4chat](https://github.com/h4dotai/h4chat)** — Realtime private chat application built with Go and WebSockets. | **[editoStudios](https://github.com/harshbarnawa/editoStudios)** — Creative agency website with modern UI and animations. |
+| **[arise4](https://github.com/harshbarnawa/arise4)** — Solo Leveling inspired AI-powered task manager and productivity app. | **[chessbee](https://github.com/harshbarnawa/chessbee)** — Chess platform built with React and chess.js supporting local and multiplayer gameplay. |
+
+| **Developer Tools** | **Competitive Programming & Other Learnings** |
+| :--- | :--- |
+| **[OpenGuidos](https://github.com/harshbarnawa/OpenGuidos)** — VS Code extension for snippets, commands, and a faster development workflow. | **[CodeForces](https://github.com/harshbarnawa/CodeForces)** — Competitive programming solutions and contest practice in C++. |
+| **[Mintoks](https://github.com/harshbarnawa/Mintoks)** — AI gateway for managing and routing requests across multiple AI providers through a unified interface. | **[LeetCode](https://github.com/harshbarnawa/leetCode)** — Data Structures & Algorithms and interview preparation. |
+| | **[Go-Learn](https://github.com/harshbarnawa/Go-learn)** — Learning backend development and Go from scratch. |
+| | **[Java Practice](https://github.com/harshbarnawa/javaWorkshop)** — Java assignments, practice programs, and core programming concepts. |
+
