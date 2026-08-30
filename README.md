@@ -20,7 +20,7 @@ Bonjour, Myself...
       <b>Editor -></b> VS Code <br>
       <b>Languages -></b> C++, Python, JavaScript <br>
       <b>Framework -></b> React, Nextjs <br>
-      <b>Goal -></b> 1000 authentic commits <br>
+      <b>Goal -></b> Want to become a good facilitator & catalyst <br>
       <b>Hobbies -></b> Gaming, Teaching <br>
 <br>
 <table style="margin-top: 8px; border-collapse: collapse;">
