@@ -1,5 +1,5 @@
 <pre>
-Hi. I am,
+Adios, Myself...
 
 ██╗░░██╗░█████╗░██████╗░░██████╗██╗░░██╗░░░░░░██████╗░░█████╗░██████╗░███╗░░██╗░█████╗░██╗░░░░░░░░██╗░█████╗░
 ██║░░██║██╔══██╗██╔══██╗██╔════╝██║░░██║░░░░░░██╔══██╗██╔══██╗██╔══██╗████╗░██║██╔══██╗██║░░░░░░░░██║██╔══██╗
@@ -55,6 +55,8 @@ Hi. I am,
 | :--- | :--- |
 | **[OpenGuidos](https://github.com/harshbarnawa/OpenGuidos)** — VS Code extension for snippets, commands, and a faster development workflow. | **[CodeForces](https://github.com/harshbarnawa/CodeForces)** — Competitive programming solutions and contest practice in C++. |
 | **[Mintoks](https://github.com/harshbarnawa/Mintoks)** — AI gateway for managing and routing requests across multiple AI providers through a unified interface. | **[LeetCode](https://github.com/harshbarnawa/leetCode)** — Data Structures & Algorithms and interview preparation. |
-| | **[Go-Learn](https://github.com/harshbarnawa/Go-learn)** — Learning backend development and Go from scratch. |
-| | **[Java Practice](https://github.com/harshbarnawa/javaWorkshop)** — Java assignments, practice programs, and core programming concepts. |
+| **Python AI/ML** | **[Go-Learn](https://github.com/harshbarnawa/Go-learn)** — Learning backend development and Go from scratch. |
+| **[Python-Libraries](https://github.com/harshbarnawa/Python-Libraries)** — Learning and practicing essential Python libraries for AI/ML, including NumPy, Pandas, and other foundational tools. | **[Java Practice](https://github.com/harshbarnawa/javaWorkshop)** — Java assignments, practice programs, and core programming concepts. |
+
+
 
