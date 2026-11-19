@@ -23,9 +23,15 @@ Bonjour, I'm
 
 <table>
   <tr>
-    <td width="40%" valign="middle">
-      <img width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s4Zml3djAzeHE4YjI3NTJyYmN6MG1ybjh2b2R6eDloMHhmY3NzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZEtFE02ofY00gJ71/giphy.gif" alt="Coding GIF"/>
-    </td>
+    
+<td width="40%" valign="middle" align="center">
+  <a href="https://pixeldraw3d.vercel.app/d/mwnwn251zalnu">
+    <b>🎨 Explore my PixelDraw3D creation ↗</b>
+  </a>
+  <br><br>
+  <img width="350" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2s4Zml3djAzeHE4YjI3NTJyYmN6MG1ybjh2b2R6eDloMHhmY3NzdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QxZEtFE02ofY00gJ71/giphy.gif" alt="Coding GIF"/>
+</td>
+
     <td width="60%" valign="middle">
       <b>OS →</b> Windows, Linux <br><br>
       <b>Editor →</b> VS Code <br><br>
